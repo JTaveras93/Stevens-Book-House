@@ -1,0 +1,126 @@
+body {
+  background-image: url("bookstore.png");
+  background-size: cover;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.Header {
+  background-color: rgb(207, 101, 101);
+  border: solid cornflowerblue;
+  color: rgb(250, 169, 139);
+  text-align: center;
+}
+
+.footer {
+  position: relative; /* Fixed/sticky position */
+  bottom: 5px; /* Place the button at the bottom of the page */
+  left: 932px; /* Place the button 30px from the right */
+  margin-top: auto;
+}
+
+#myBtn {
+  position: fixed; /* Fixed/sticky position */
+  bottom: 40px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  border: none; /* Remove borders */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  border-radius: 10px; /* Rounded corners */
+}
+
+.UnderHeader1 {
+  color: rgb(192, 28, 214);
+  text-align: center;
+}
+
+.UnderHeader2 {
+  color: rgb(18, 101, 41);
+  text-align: center;
+}
+
+.image {
+  width: 60px;
+  float: left;
+  margin-top: 12px;
+  margin-left: 15px;
+  border-radius: 10px;
+}
+
+.Book1 {
+  margin: auto;
+  margin-top: 1cm;
+  background-color: rgba(195, 194, 191, 0.899);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 30px;
+  line-height: 100px;
+  width: 650px;
+  border: solid cornflowerblue;
+}
+
+.Book2 {
+  margin: auto;
+  margin-top: 1cm;
+  background-color: rgba(195, 194, 191, 0.899);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 30px;
+  line-height: 100px;
+  width: 650px;
+  border: solid cornflowerblue;
+}
+
+.Book3 {
+  margin: auto;
+  margin-top: 1cm;
+  background-color: rgba(195, 194, 191, 0.899);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 30px;
+  line-height: 100px;
+  width: 650px;
+  border: solid cornflowerblue;
+}
+
+.Book4 {
+  margin: auto;
+  margin-top: 1cm;
+  background-color: rgba(195, 194, 191, 0.899);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 30px;
+  line-height: 100px;
+  width: 650px;
+  border: solid cornflowerblue;
+}
+
+.Book5 {
+  margin: auto;
+  margin-top: 1cm;
+  background-color: rgba(195, 194, 191, 0.899);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 30px;
+  line-height: 100px;
+  width: 650px;
+  border: solid cornflowerblue;
+}/*# sourceMappingURL=index.css.map */
